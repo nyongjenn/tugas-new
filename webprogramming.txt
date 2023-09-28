@@ -1,4 +1,5 @@
 materi tentang menggunakan git
 materi tntang menggunakan github
+materi javascript dasar
 materi javascript dom
 materi javascript oop
